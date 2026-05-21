@@ -25,7 +25,7 @@ To land my first IT support or help desk role by the end of 2026 — and to keep
 - Setting up and configuring Windows 10 in VirtualBox
 - Troubleshooting common hardware and software issues
 - Helping family and community members with PC problems
-
+- Installed Windows 11 Pro in VirtualBox from ISO (21 May 2026) — first home lab VM running
 ---
 
 ## 📂 What You'll Find in This Repo
@@ -44,4 +44,4 @@ As I progress, I'll be uploading:
 - LinkedIn: linkedin.com/in/[your-profile]
 - Location: Pretoria, Gauteng, South Africa
   
-- Installed Windows 11 Pro in VirtualBox from ISO (21 May 2026) — first home lab VM running
+
