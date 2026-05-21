@@ -43,3 +43,5 @@ As I progress, I'll be uploading:
 - Email: officialnemberi@gmail.com
 - LinkedIn: linkedin.com/in/[your-profile]
 - Location: Pretoria, Gauteng, South Africa
+  
+- Installed Windows 11 Pro in VirtualBox from ISO (21 May 2026) — first home lab VM running
