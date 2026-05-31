@@ -26,6 +26,8 @@ To land my first IT support or help desk role by the end of 2026 — and to keep
 - Troubleshooting common hardware and software issues
 - Helping family and community members with PC problems
 - Installed Windows 11 Pro in VirtualBox from ISO (21 May 2026) — first home lab VM running
+- Studying CompTIA A+ Core 1 (220-1201) via Professor Messer — covered 
+  mobile device connectivity and laptop hardware (31 May 2026)
 ---
 
 ## 📂 What You'll Find in This Repo
